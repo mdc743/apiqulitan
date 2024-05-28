@@ -46,6 +46,7 @@
     "bio": "",
     "avatar":"https://mdc743.github.io/apiqulitan/ic_profile.jpg"
   },
+  "bg_scroll":"https://mdc743.github.io/apiqulitan/bg_scroll.png",
   "menu": [
     {
       "text_button": "Whatsapp",
