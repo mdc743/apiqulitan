@@ -50,7 +50,7 @@
   "menu": [
     {
       "text_button": "Whatsapp",
-      "link_button": "Whatsapp",
+      "link_button": "https://wa.me/6282130443687?text=Hallo%20Saya%20ingin%20Order%20langsung%20dengan%20anda",
       "image":"https://mdc743.github.io/apiqulitan/ic_whatsapp.png"
     },
     {
