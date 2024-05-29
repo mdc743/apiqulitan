@@ -3,8 +3,8 @@
     {
       "title": ".VENDOR / KONVEKSI JASA PEMBUATAN TAS, DOMPET, JAKET, AKSESORIS,KULIT ASLI",
       "description": "Qlt Leather adalah Pengrajin Tas Kulit, Dompet Kulit, Jaket Kulit, dan Aksesoris Kulit yang fokus menggunakan bahan baku kulit asli. Kami siap memproduksi dengan pilihan design yang bisa anda tentukan sendiri sesuai keinginan. Baik order satuan atau order partai besar. Dan tentunya kami didukung dengan tim pengrajin yang sudah berpengalaman dan ahli dibidang perkulitan",
-      "logo": "",
-      "favicon": "",
+      "logo":"https://mdc743.github.io/apiqulitan/ic_profile.jpg"
+      "favicon":"https://mdc743.github.io/apiqulitan/ic_profile.jpg"
       "keywords": [
         "konveksi tas",
         "pabrik tas",
@@ -50,23 +50,28 @@
   "menu": [
     {
       "text_button": "Whatsapp",
-      "link_button": "Whatsapp"
+      "link_button": "Whatsapp",
+      "image":"https://mdc743.github.io/apiqulitan/ic_whatsapp.png"
     },
     {
       "text_button": "Tiktok Official Store",
-      "link_button": "https://www.tiktok.com/@qltleather"
+      "link_button": "https://www.tiktok.com/@qltleather",
+      "image":"https://mdc743.github.io/apiqulitan/ic_tiktok.png"
     },
     {
       "text_button": "Shopee Official Store",
-      "link_button": "https://shopee.co.id/qltleatherstore"
+      "link_button": "https://shopee.co.id/qltleatherstore",
+      "image":"https://mdc743.github.io/apiqulitan/ic_shopee.png"
     },
     {
       "text_button": "Tokopedia Official Store",
-      "link_button": "https://www.tokopedia.com/qulitan"
+      "link_button": "https://www.tokopedia.com/qulitan",
+      "image":"https://mdc743.github.io/apiqulitan/ic_toko_pedia.png"
     },
     {
       "text_button": "Lazada  Official Store",
-      "link_button": "https://www.lazada.co.id/shop/qlt-leather/"
+      "link_button": "https://www.lazada.co.id/shop/qlt-leather/",
+      "image":"https://mdc743.github.io/apiqulitan/ic_lazada.png"
     }
   ]
 }
