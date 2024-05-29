@@ -1,8 +1,11 @@
 {
   "siteTitle": ".VENDOR / KONVEKSI JASA PEMBUATAN TAS, DOMPET, JAKET, AKSESORIS,KULIT ASLI",
-  "siteDeskripsion": "Qlt Leather adalah Pengrajin Tas Kulit, Dompet Kulit, Jaket Kulit, dan Aksesoris Kulit yang fokus menggunakan bahan baku kulit asli. Kami siap memproduksi dengan pilihan design yang bisa anda tentukan sendiri sesuai keinginan. Baik order satuan atau order partai besar. Dan tentunya kami didukung dengan tim pengrajin yang sudah berpengalaman dan ahli dibidang perkulitan",
+  "siteDescription": "Qlt Leather adalah Pengrajin Tas Kulit, Dompet Kulit, Jaket Kulit, dan Aksesoris Kulit yang fokus menggunakan bahan baku kulit asli. Kami siap memproduksi dengan pilihan design yang bisa anda tentukan sendiri sesuai keinginan. Baik order satuan atau order partai besar. Dan tentunya kami didukung dengan tim pengrajin yang sudah berpengalaman dan ahli dibidang perkulitan",
   "logo":"https://mdc743.github.io/apiqulitan/ic_logo_web.jpg",
   "favicon":"https://mdc743.github.io/apiqulitan/favicon.ico",
+  "apple_touch_icon":"https://mdc743.github.io/apiqulitan/apple-icon.png",
+  "favicon_32":"https://mdc743.github.io/apiqulitan/favicon-32x32.png",
+  "favicon_16":"https://mdc743.github.io/apiqulitan/favicon-16x16.png",
   "siteKeywords": [
     "konveksi tas",
     "pabrik tas",
@@ -37,6 +40,8 @@
     "pembuatan tas",
     "pabrik tas kulit"
   ],
+  "siteName": "Qulitan",
+  "siteUrl": "https://contact.qulitan.id/",
   "seo": {
     "metaTitle": "",
     "metaDescription": "",
@@ -46,25 +51,11 @@
       "thumbnail":  "",
       "original":  ""
     },
-    "twitterHandle":  "",
-    "twitterCardType":  "",
+    "twitterHandle":  "@Qltleather",
+    "twitterSite":  "@Qltleather",
+    "twitterCardType":  "summary_large_image",
     "metaTags":  "",
     "canonicalUrl":  ""
-  },
-  "openGraph": {
-    "type": "website",
-    "locale": "id_ID",
-    "url": "https://www.yourwebsite.com/",
-    "site_name": "Your Website Name",
-    "images": [
-      {
-        "url": "https://www.yourwebsite.com/og-image.jpg",
-        "width": "800",
-        "height": "600",
-        "alt": "Og Image Alt",
-        "type": "image/jpeg"
-      }
-    ]
   },
   "profile": {
     "name": "@Qltleather",
@@ -100,3 +91,4 @@
     }
   ]
 }
+
